@@ -1,0 +1,281 @@
+/* Home css */
+.bg{
+    background: url(13.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
+.logo{
+    font-family: Algerian;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: lighter;
+    padding-top:0px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.t1{
+    font-family: Algerian;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: lighter;
+    margin-left: 235px;
+    margin-top: 165px;
+}
+.t2{
+    font-family: Segoe UI;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: lighter;
+    margin-left: 349px;
+    margin-top: 40px;
+}
+.w3-xxlarge{
+    font-family: 'Kanit', sans-serif;
+}
+.t3{
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 200px;
+    color: rgb(188, 0, 119);
+}
+.t4{
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 70px;
+    color: rgb(188, 0, 119);
+}
+.t5{
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 70px;
+    color: rgb(188, 0, 119);
+}
+.t6{
+    font-family: Segoe UI;
+    font-size: 30px;
+    margin-left: 100px;
+    background: white;
+    color:black;
+    border:4px solid red;
+}
+.t6 a{
+    
+    text-decoration: none;
+    
+}
+.pic1 img{
+    width: 320px;
+    height: 320px;
+    margin-left: 130px;
+}
+.pic2 img{
+    width: 300px;
+    height: 300px;
+    margin-left: 200px;
+    margin-top:0px;
+}
+.pic3 img{
+    width: 300px;
+    height: 300px;
+    margin-left: 200px;
+}
+.pic4 img{
+    width: 300px;
+    height: 300px;
+    margin-left: 130px;
+}
+.pic5 img{
+    width: 300px;
+    height: 300px;
+    margin-left: 200px;
+}
+.pic6 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
+}
+.pic7 img{
+    width: 650px;
+    height: auto;
+    margin-left: 130px;
+}
+
+div a:link, div a:visited {
+    background-color: palevioletred;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border:2px solid blueviolet;
+    transition: all 0.5s;
+    font-style: italic;
+    font-family: 'Kanit', sans-serif;
+}
+
+div a:hover, div a:active {
+    background: purple;
+    color:white;
+}
+
+
+/* AboutMe css */
+.bg2{
+    background: url(2.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
+.logos{
+    font-family: Algerian;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: lighter;
+    padding-top:0px;
+    padding-left: 13px;
+    margin-left: 100px;
+    margin-top: 70px;
+    height: 80px;
+    width: 300px;
+    background-color:rgb(253, 153, 187);
+    
+}
+.t7{
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+    margin-left: 100px;
+    color:rgb(2, 140, 142);
+}
+.t8 {
+    margin-left:900px;
+    margin-top:-450px;
+    padding-left: 70px;
+    padding-top: 20px;
+    height: 450px;
+    width: 550px;
+    background-color:rgb(253, 153, 187);
+    font-family: 'Kanit', sans-serif;
+    font-size: 25px;
+    border:2px solid red;
+    color:white;
+}
+.t9{
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+    margin-left: 100px;
+    color:rgb(2, 140, 142);
+}
+.t10{
+    margin-left:900px;
+    margin-top:-450px;
+    padding: 10px;
+    height: 590px;
+    width: 500px;
+    background-color:rgb(253, 153, 187);
+    font-family: 'Kanit', sans-serif;
+    font-size: 25px;
+    border:2px solid red;
+    text-align: justify;
+    color:white;
+    
+}
+.pic8 img{
+    width: 350px;
+    height: auto;
+    margin-left: 200px;
+    margin-top: -30px;
+    position: relative;
+}
+.pic9 img{
+    width: 350px;
+    height: auto;
+    margin-left: 200px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.w3-myfont {
+    font-family: Algerian;
+}
+
+็
+/* Homework css */
+.logoss{
+    font-family: Algerian;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: lighter;
+    padding-top:0px;
+    padding-left: 13px;
+    margin-left: 100px;
+    margin-top: 70px;
+    height: 80px;
+    width: 300px;
+    background-color:rgb(253, 153, 187);
+    
+}
+.t11{
+    color:rgb(99, 99, 99);
+    font-family: 'Kanit', sans-serif;
+    font-size: 55px;
+    margin-left: 300px;
+}
+.t12{
+    margin-left:900px;
+    margin-top:-320px;
+    padding: 10px;
+    height: 300px;
+    width: 500px;
+    background-color:rgb(253, 153, 187);
+    font-family: 'Kanit', sans-serif;
+    font-size: 37px;
+    border:2px solid red;
+    text-align: justify;
+    color:white;
+}
+.t13{
+    margin-left:900px;
+    margin-top:-350px;
+    padding: 10px;
+    height: 420px;
+    width: 500px;
+    background-color:rgb(253, 153, 187);
+    font-family: 'Kanit', sans-serif;
+    font-size: 37px;
+    border:2px solid red;
+    text-align: justify;
+    color:white;
+}
+.t14{
+    margin-left:900px;
+    margin-top:-650px;
+    padding: 10px;
+    height: 470px;
+    width: 500px;
+    background-color:rgb(253, 153, 187);
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+    border:2px solid red;
+    text-align: justify;
+    color:white;
+}
+.t15{
+    color:rgb(99, 99, 99);
+    font-family: 'Kanit', sans-serif;
+    font-size: 55px;
+    margin-left: 300px;
+}
+.pic10 img{
+    margin-left: 820px;
+    margin-top: -1100px;
+    width:730px;
+    height: auto;
+    
+}
+.ref a{
+    color:blue;
+    font-size: 40px;
+}
+
+
+

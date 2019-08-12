@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html class="bg2">
+    <head>
+        <title>
+            HOMEWORK
+        </title>
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link href="https://fonts.googleapis.com/css?family=Kanit&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="stylecss.css" type="text/css" />
+        <style>
+        </style>
+    </head>
+    
+    <body>
+        <div class="w3-bar w3-black">
+            <div class="w3-dropdown-hover">
+                <button class="w3-button w3-xxxlarge w3-right w3-myfont"><ul class="w3-ul">
+                    <li><i class="fa fa-bars"></i> MENU</li></ul>
+                </button>
+                <div class="w3-dropdown-content w3-bar-block w3-card-4">
+                    <a href="index.html" class="w3-bar-item w3-button w3-myfont w3-xlarge">HOME</a>
+                    <a href="AboutMe.html" class="w3-bar-item w3-button w3-myfont  w3-xlarge">ABOUT ME</a>
+                    <a href="Homework.html" class="w3-bar-item w3-button w3-myfont  w3-xlarge">HOMEWORK</a>
+                </div>
+            </div>
+        </div>  
+        <h1 class="logoss"></h1>
+        <br><br><br><br>    
+        
+        <h1 class="t11">WHAT<br>IS<br>CSS<br>SPECIFICITY ?</h1>
+        <div class="t12">คือ ค่าที่ใช้บอกลำดับความสำคัญใน style ว่าจะให้ browser ใช้ style ตัวไหนมาแสดงผลบนหน้าเว็บ โดยต้องมีการคำนวณค่าออกมา</div>
+        <br><br><br><br><br><br><br><br><br>
+        <h1 class="t11">HOW<br>TO<br>CALCULATE<br>SPECIFICITY ?</h1>
+        <div class="t13">เริ่มต้นที่ 0 และจะเป็น 1000 สำหรับ style attribute เป็น 100 สำหรับแต่ละ ID เป็น 10 สำหรับแต่ละ attribute, class หรือ psudo-class และเป็น 1 สำหรับแต่ละ element name หรือ psudo-element</div>
+        <br><br><br><br><br><br><br><br><br>
+        <h1 class="t11">E<br>X<br>A<br>M<br>P<br>L<br>E</h1>
+        <div class="pic10">
+            <img src="example.jpg">
+        </div>
+        <br><br><br><br><br><br><br><br><br>
+        <div class="t14">-ค่า specificity ของ A คือ 1 (one element)<br>
+            -ค่า specificity ของ B คือ 101 (one ID และ one element)<br>
+            -ค่า specificity ของ C คือ 1000 (inline styling)<br><br>
+        เพราะว่า 1 < 101 < 1000 ทำให้ C มีค่า specificity มากที่สุด และจะถูกนำมา apply</div>
+        <br><br><br><br><br><br><br><br><br>
+        <span class="ref">
+            <span class="t15">REFERENCE : <a href="https://www.w3schools.com/css/css_specificity.asp" target="_blank">www.w3schools.com/css/css_specificity.asp</a></span>
+        </span><br><br><br>
+    </body>
+</html>
